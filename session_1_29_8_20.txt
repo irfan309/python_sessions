@@ -1,0 +1,97 @@
+Agenda:
+    > Language Fundamentals
+    1. Introdcution of Python
+    2. Features Of Python
+    3. Limitation Of Python
+    4. Flavours Of Python
+    5. Python Versions
+
+
+    1. father of python/developed by guido van rossum in the year of 1989 and published official 1991 release
+    2. stack overflow
+
+    a. python lan is high level language and general purpose language and object oriented language (oops)
+        general purpose we can solve any kind of problem.
+
+    1.in c we have to write these many lines fo code.
+    
+    #include <stdio.h>
+
+    int main() {
+    /* my first program in C */
+    printf("Hello, World! \n");
+    
+    return 0;
+    }
+    2. in java program we have to write to print just hello world.
+ 
+    public class MyFirstJavaProgram {
+
+   /* This is my first java program.
+    * This will print 'Hello World' as the output
+    */
+
+   public static void main(String []args) {
+      System.out.println("Hello World"); // prints Hello World
+   }
+   }
+
+    3. But In python we have less lines of code and like english language 
+
+    Python>   print('hello world')
+
+
+
+    
+2. Feature of Python
+1. simple and easy to learn and write the code
+2.freeware and opensource and its comes with libraries or we can 
+library is like bundle of modules and module nothing is like a file.
+in  a module combination of classes and methods/functions etc.,
+        #pip install <package name>
+3. python is platform independent .we can run and implement on any platform like linux or mac and windows.
+4  PYHTHON is Dynamically typed programming language.
+    a = 10.0 
+    b = 20
+
+
+adil = 'its my name'
+4. python is object oriented programming language 
+
+----> flavours of python 
+ 1.cpython  is standard python 
+ 2.jython 
+ 3.Ancondapython, 
+ 4.rubypython ,
+ 5.ironpython
+
+
+> Limitation Of Python:
+    python is not using for mobile based applications.
+    python is performance wise upto mark if we compared with java.
+
+
+versions of python are:
+ 
+python 2.0 like 2.7 python 2.0 is now depricated.
+python current version 3.8 
+------------------------------------------------------
+
+
+
+
+data science 
+rpa
+nlp
+ai
+ML
+WEB DEVELOPEMENT
+Cloud scripting or automation AWS|AZURE|GCP|
+web scraping 
+database application 
+
+    
+    1. installation of python and setting environment path
+    2. identiers 
+
+    adil = some value
