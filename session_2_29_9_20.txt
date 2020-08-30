@@ -1,0 +1,48 @@
+Agenda :
+        1. Python Installation
+        2. identifiers
+
+
+        1. Python official site www.python.org
+
+        2.creation of a file/module in python
+            intializing and executing
+            ex:
+                a = 'hellow world'
+                b = 'some thing'
+                print('a:',a)
+                val1 = 100
+                val2 = 200
+                print(val1 + val2,a, b)
+        
+        3. Comments In python
+            
+            1.   #this is a comment
+
+            2.   '''this is something '''
+            
+            3.   """ This is Also way of Comment in a program """
+
+            --> in methods we write comments like below way...
+            #calculatioin code....
+            def calc():
+                '''This method will give you entire calculation
+                and  
+                '''
+                a =10
+                print(a)
+
+
+        4. You have to write any code or comments and run the module and test the response...
+        5. as developer you have to use IDE/IDLE   
+            Practice on this Idles to write and execute the code
+        
+                a.python IDLE 
+                b. SUBLIME TEXT EDITOR
+                C. ATOM 
+                D. VS CODE EDITOR
+                E. PYTHONCHARM CODE EDITOR
+
+        
+
+
