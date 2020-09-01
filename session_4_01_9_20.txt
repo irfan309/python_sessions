@@ -1,0 +1,98 @@
+Topics:
+      -->   Identifiers.
+            A name in python program is called identifier
+            > a identifier can be a variable name, a module name, or a function/method name, and A class Name.
+
+
+            ex:
+                var1 = 10
+
+                Adil_Name = 'Adil khan'
+
+                Total = 2000
+
+                total = 1000
+
+                TOTAL = 5000
+
+                address = 'hyd'
+
+                City = 'secbad'
+
+There certian rules to define Identifiers:
+
+       > in python $ symbols is not allowed 
+        ex:     you can declare like this...
+                
+                Cash = 200000
+        
+        > you can not declare with symbol
+
+                ex:  total_ca$h = 1000000
+
+                it will not accecpt throws an error...
+
+1. to define a identifer we have to follow these rules...
+
+    a. alphabets (which are small letters and capital letters)
+    b. digits (0-9)
+    c. a special symbol which is underscore( _ )
+
+        ex: Adil_Adress = 'somewhere' 
+
+2. Identifier should not statrs with digits...
+
+    it means we can not declare any identifier starts with digit..
+
+    ex: 123_Adil = 1000  (wrong)
+
+> python only allow to declare any identifier with alphabets only...
+
+> if you are going to declare a identifier starts with _ then it consider a private variable...
+> if you use __ to declare identifier then it consider as stronge varible or private variable..
+    
+        ex:   _Adil_Name = 'somename'
+            
+            its a private variable..
+
+            and  
+
+            __AdilAddress = 'somewhere'
+
+            its also private or strong private identifier...
+
+            __Adil__ = 'its a magica mathods or special methods in python'
+
+            ex: python >  __add__
+
+
+Practice :
+            123Name = 'some'    (wrong)
+            total123 = '2000'   (correct)
+            python2python = 'something' (correct)
+            cash = 1000 (correct)
+            ca$h = 2000     (wrong)
+            _adil_khan_  = 'some thing' (correct)
+            
+        NOTE: we can not use reserved words of python in our declaration of identifiers
+
+            
+2. Reserved words :
+    python by default have some words for specific declaration.
+        > previous there 33 keywords in python.
+        keywords list below...
+        'False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await',
+         'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except',
+          'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda',
+          'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 
+          'yield
+
+    we have to observe:
+        every keywords in python small letters except
+            these 3 key words :
+
+                    True
+                    False
+                    None
+
+                
