@@ -1,0 +1,36 @@
+python in-built data types 
+
+
+1.int  ex : a = 100 
+2.float ex:  f = 100.0
+3.complex  ex : adil = realpart + imageinarypartJ ex2:  adil = 10 + Jk
+4.boolean True False
+5. strings(str) '' "" ''' ''' """ """
+
+---> collection datatypes:
+
+6.List 
+    list datatype is a collections of items  
+    which is represent in square brackets ---> []
+
+    ex : adilkhan = [100,200.50,'employee','business',"irfan",'adil']
+    
+7.Tuple  
+
+8.dictionary 
+
+9.set {}
+
+10.frozenset
+
+
+11.bytes 
+12.bitearray
+13.range
+14.None
+
+NOte:
+    Every thing in python is object only..
+        ex : a = 10
+
+        

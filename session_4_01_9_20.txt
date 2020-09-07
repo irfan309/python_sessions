@@ -91,7 +91,7 @@ Practice :
         every keywords in python small letters except
             these 3 key words :
 
-                    True
+                    True 
                     False
                     None
 
